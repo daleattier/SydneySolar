@@ -1,5 +1,5 @@
 # SydneySolar
-A visualisation created to view the uptake of Solar Panels in Sydney.
+A visualisation created to view the uptake of Solar Panels in Sydney. The visualisations are created in D3 while the main website is setup using [fullpage.js](https://alvarotrigo.com/fullPage/)
 
 # Solar Data
 		
@@ -18,7 +18,7 @@ The NSW Solar Bonus Scheme (SBS) provides a feed-in tariff for eligible customer
 Census Data Packs contain comprehensive data about people, families and dwellings for all available geographic areas, with associated Geographic Information System digital boundary files. The packs contain 608 rows of data covering all the NSW postcodes, there are approximately 7942 variables which are based on the questions from the census.</p>
 		
 ### Data Source Links
-- NSW Open data - data.nsw.gov.au
+- NSW Open data - [data.nsw.gov.au](data.nsw.gov.au)
 - Census Data www.abs.gov.au/census 
 
 
@@ -28,8 +28,16 @@ The visualisations include the following:
 
 ## Map
 
-## Start Burst
+![D3 Map](/images/map.png "D3 Map")
 
-## Interactive Scatter Plot
+## Sunburst
+
+![D3 Starburst](/images/sunburst.png)
+
+## Interactive Scatterplot
+
+![Interactive Scatterplot](/images/scatter.png)
 
 ## Dashboard
+
+![Dashboard](/images/dashboard.png)
